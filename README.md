@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Nadav</h1>
-<h3 align="center">A passionate fullstack developer from Israel</h3>
+<h1 align="center">Hey 👋, I'm Nadav</h1>
+<h3 align="center">I'm looking for my next challenge in Full stack position.</h3>
 
-- 🔭 I’m currently working on [missBooks - Virtual library](https://opkuch.github.io/missBooks-ghPage)
+- 🔭 I’m currently looking for my first opportunity to work in web development.
+
+- 📖 I’m currently working on [missBooks - Virtual library](https://opkuch.github.io/missBooks-ghPage)
 
 - 📫 How to reach me **nadavbenhur@gmail.com**
+
+- 🌱 I continue to learn and develop my skills in Angular and RxJS.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
