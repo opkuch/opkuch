@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first opportunity to work in web development.
 
-- 📖 I’m currently working on [missBooks - Virtual library](https://opkuch.github.io/missBooks-ghPage)
+- 📖 I’m currently working on my angular project [missBooks - Virtual library](https://opkuch.github.io/missBooks-ghPage)
 
 - 📫 How to reach me **nadavbenhur@gmail.com**
 
