@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Nadav</h1>
 <h3 align="center">I'm looking for my next challenge in Full stack position.</h3>
 
-- 🔭 I’m currently looking for my first opportunity to work in web development.
+- 🔭 I’m looking for my first opportunity to work in web development.
 
 - 📖 I’m currently working on my angular project [missBooks - Virtual library](https://opkuch.github.io/missBooks-ghPage)
 
@@ -9,6 +9,7 @@
 
 - 🌱 I continue to learn and develop my skills in Angular and RxJS.
 
+- ⚡ Checkout my Trello clone project (team project) ---> [Donatello - Task management app](https://donate11o-app.herokuapp.com/#/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
