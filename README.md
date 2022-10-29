@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Nadav</h1>
-<h3 align="center">I'm looking for my next challenge in Full stack position.</h3>
+<h3 align="center">I'm looking for my next challenge as a web developer.</h3>
 
 - 🔭 I’m looking for my first opportunity to work in web development.
 
