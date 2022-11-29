@@ -1,15 +1,10 @@
 <h1 align="center">Hey 👋, I'm Nadav</h1>
 <h3 align="center">I'm looking for my next challenge as a web developer.</h3>
 
-- 🔭 I’m looking for my first opportunity to work in web development.
-
-- 📖 I’m currently working on my angular project [missBooks - Virtual library](https://opkuch.github.io/missBooks-ghPage)
-
 - 📫 How to reach me **nadavbenhur@gmail.com**
 
 - 🌱 I continue to learn and develop my skills in Angular and RxJS.
 
-[My Portfolio](https://opkuch.github.io/portfolio/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
