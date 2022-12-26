@@ -1,12 +1,9 @@
-<h1 align="center">Hey 👋, I'm Nadav</h1>
-<h3 align="center">I'm looking for my next challenge as a web developer.</h3>
 
-- 📫 How to reach me **nadavbenhur@gmail.com**
-
-- 🌱 I continue to learn and develop my skills in Angular and RxJS.
 
 
 <h3 align="left">Connect with me:</h3>
+<p>nadavbenhur@gmail.com</p>
+<p>or</p>
 <p align="left">
 <a href="https://linkedin.com/in/nadav-ben-hur-381584249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadav-ben-hur-381584249" height="30" width="40" /></a>
 </p>
